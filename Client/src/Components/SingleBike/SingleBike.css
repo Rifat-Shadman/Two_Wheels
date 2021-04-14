@@ -1,0 +1,12 @@
+.card{
+    margin: 2% 2%;
+}
+.card img{
+    padding-top: 1em;
+    width: 85%;
+    height: 20em;
+    align-self: center;
+}
+.buyButton{
+    background-color: cadetblue;
+}
