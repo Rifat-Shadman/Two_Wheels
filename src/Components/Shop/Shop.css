@@ -1,0 +1,36 @@
+.my-container{
+    padding: 3em 3em 5em 4em;
+    background-color: rgb(217, 236, 214);
+    width: 100%;
+}
+
+.product{
+    display:inline-flex ;
+    border: 2px solid black;
+    height:max-content  ;
+}
+
+.prod{
+    width: 100%;
+}
+.prod h5{
+
+    color: rgba(216, 58, 10, 0.959);
+    font-weight: 400;
+
+}
+
+.main-button{
+    /* background-color: rgb(78, 110, 196); */
+    /* width: 150px; */
+    /* height:fit-content  ; */
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items:center;
+}
+
+/* img{
+    height: 250px;
+    width: 180px;
+} */

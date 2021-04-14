@@ -1,0 +1,9 @@
+.loginButton{
+    color: white;
+    background-color: rgba(7, 106, 199, 0.753);
+    margin-left: 45%;
+    align-self: center;
+    height: auto; 
+    text-align: center ;
+    text-transform:uppercase ;
+}
